@@ -1,5 +1,10 @@
 ## Dr Catrin Moore
 
+I am a Senior Lecturer based at St. George’s, University of London. I have been working in global health and microbiology for over 20 years. I am co-leading the Antimicrobial Resistance, Prescribing, and Consumption Data to Inform Country Antibiotic Guidance and Local Action (ADILA) Project where we will inform local policies in LMICs and implement change locally. This work leads on from my previous work estimating the global burden of Antimicrobial Resistance (the Global burden of AntiMicrobial resistance (GRAM) project) where I led a team of researchers based at the Big Data Institute, University of Oxford.
+
+I am passionate about global health and working equitably with colleagues globally to build sustainable solutions together. As researchers, we need to be innovative in our approach to tackling large problems working collaboratively with diverse groups to encourage fresh thinking and new creative ways to tackle problems such as AMR, epidemic diseases and climate change.
+
+
 You can use the [editor on GitHub](https://github.com/catmoore/catmoore.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
