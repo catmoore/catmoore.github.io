@@ -4,6 +4,7 @@ I am a Senior Lecturer based at St. George’s, University of London. I have bee
 
 I am passionate about global health and working equitably with colleagues globally to build sustainable solutions together. As researchers, we need to be innovative in our approach to tackling large problems working collaboratively with diverse groups to encourage fresh thinking and new creative ways to tackle problems such as AMR, epidemic diseases and climate change.
 
+Antibiotic resistance is a huge problem which needs partners across many disciplines in order to understand and kerb the problem. My research has focussed on making the unmeasurable measurable (the burden of AMR), now I am 
 
 You can use the [editor on GitHub](https://github.com/catmoore/catmoore.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
